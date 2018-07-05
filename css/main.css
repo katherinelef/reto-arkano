@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    background-color:  #ecf0f5;
+}
+.navbar-light {
+    background-color: #3c8dbc;
+    padding: 0;
+}
+
+.navbar-light p {
+    background-color: #367fa9;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.name {
+    padding: 15px 80px 15px 80px;
+    margin: 0;
+}
+
+.left-bar, main {
+    display: inline-block;
+    vertical-align: top;
+    height: 100vh;
+}
+
+.left-bar {
+    background-color: #222d32;
+    width: 17.8%;
+}
+
+.photo, .description {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.circle-green {
+    width: 10px;
+    height: 10px;
+    background-color: #3c763d;
+    display: inline-block;
+}
+
+.main-navigation {
+    color: #293e41;
+}
+
+.boton {
+    background-color: #1e282c;
+    border: none;
+    width: 100%;
+    text-align: start;
+    border-left: 3px solid #347295;
+}
+
+main {
+    background-color: #ecf0f5;
+}
+
+.form-datos {
+    background-color: white;
+    transform: translate(50%,10%);
+    width: 180%; 
+    
+}
